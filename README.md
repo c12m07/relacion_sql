@@ -14,3 +14,8 @@ EJERCICIO #1
 >  Buscar datos relacionados
 
 ![This is an image](https://github.com/c12m07/relacion_sql/blob/main/relacion_sql/BuscarDatos.jpg)
+
+
+>  Diagrama entidad Relacion
+
+![This is an image](https://github.com/c12m07/relacion_sql/blob/main/relacion_sql/relacionEntidad.drawio.png)
